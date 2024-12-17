@@ -1,0 +1,6 @@
+Setup bufferline for better looking tabs
+
+https://www.josean.com/posts/how-to-setup-neovim-2024
+
+thema
+https://github.com/bluz71/vim-moonfly-colors
