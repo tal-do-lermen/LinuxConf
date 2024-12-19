@@ -1,5 +1,3 @@
-require("josean.core")
-
-vim.cmd [[colorscheme moonfly]]
-
-vim.g.moonflyTransparent = true
+require("lermen.core.keymaps")
+require("lermen.core.options")
+require("lermen.core.commands")

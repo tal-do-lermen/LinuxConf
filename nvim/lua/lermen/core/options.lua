@@ -1,5 +1,6 @@
 
 vim.cmd("let g:netrw_liststyle = 3")
+vim.cmd("let g:moonflyUndercurls = v:false")
 
 local opt = vim.opt -- for conciseness
 

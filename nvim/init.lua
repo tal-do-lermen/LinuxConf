@@ -1,4 +1,4 @@
-require("lermen.core.options")
-require("lermen.core.keymaps")
+
+require("lermen.core")
 require("lermen.lazy")
 
